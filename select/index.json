@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "きらきら印を見つけたら",
+  "base_artist": "ココア(佐倉綾音)",
+  "createdAt": "2026-03-25T15:09:53.124990Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "きらきら印を見つけたら",
+      "artist": "ココア(佐倉綾音)",
+      "has_synced": true,
+      "path": "select/01_きらきら印を見つけたら_ココア(佐倉綾音).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "きらきら印を見つけたら",
+      "artist": "ココア(CV:佐倉綾音)",
+      "has_synced": true,
+      "path": "select/02_きらきら印を見つけたら_ココア(CV_佐倉綾音).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "きらきら印を見つけたら",
+      "artist": "ココア(佐倉綾音)",
+      "has_synced": true,
+      "path": "select/03_きらきら印を見つけたら_ココア(佐倉綾音).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "きらきら印を見つけたら",
+      "artist": "佐倉綾音",
+      "has_synced": true,
+      "path": "select/04_きらきら印を見つけたら_佐倉綾音.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "きらきら印を見つけたら",
+      "artist": "ココア (佐倉綾音)",
+      "has_synced": true,
+      "path": "select/05_きらきら印を見つけたら_ココア_(佐倉綾音).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "きらきら印を見つけたら",
+      "artist": "ココア(佐倉綾音)",
+      "has_synced": false,
+      "path": "select/pl_01_きらきら印を見つけたら_ココア(佐倉綾音).txt"
+    }
+  ]
+}
